@@ -1,2 +1,2 @@
-# Rana_Preet
+# Trip Planner 
 college project
